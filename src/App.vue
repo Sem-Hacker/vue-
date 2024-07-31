@@ -1,6 +1,6 @@
 <template>
-<HelloWorld msg=""/>
-<h1>  welcome</h1>
+<HelloWorld msg="Sem 's Vue work"/>
+<h1>  welcome   everyone !  </h1>
 <p> this my website realised with vue </p>
 </template>
 
