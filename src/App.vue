@@ -1,5 +1,7 @@
 <template>
-<HelloWorld msg="   hello everyone my name is sem "/>
+<HelloWorld msg=""/>
+<h1>  welcome</h1>
+<p> this my website realised with vue </p>
 </template>
 
 <script>
